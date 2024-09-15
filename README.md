@@ -22,7 +22,7 @@ Welcome to React Spotify Clone, a music streaming application built using React 
 ## Playlist Page
 
 <img width="1433" alt="image" src="https://github.com/user-attachments/assets/70a7c1fc-44bc-43d0-8e0a-7362a3ec358c">
-c=
+
 
 ## Getting Started
 
