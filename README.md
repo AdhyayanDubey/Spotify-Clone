@@ -1,4 +1,4 @@
-# Spotify Clone NSCC Club Recruitment Task 🎵
+# Spotify Clone 🎵
 
 Welcome to React Spotify Clone, a music streaming application built using React JS, Redux Toolkit, and Spotify's official APIs.
 
